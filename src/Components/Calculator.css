@@ -1,0 +1,28 @@
+button{ /* Estilizando todos os botoes */
+    width: 3em; 
+    height: 3em; 
+    font-size: 1.5 em;
+    border: none; 
+    border-radius: 2em;
+    margin: 0.3;
+}
+
+button:hover{ /* Efeito pra quando o mouse tiver em cima */
+    cursor: pointer;
+}
+
+.fundoTela{ /* Estilizando a tela de fundo */
+    background-color: black;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.Laranja{ /* As cores dos botoes laranja da calculadora */
+background-color: #FF9508;
+color:white;
+}
+
+.Cinza{ /* As cores dos botoes cinza da calculadora */
+background-color: #505050;
+color: white;
+}
