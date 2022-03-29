@@ -26,3 +26,11 @@ color:white;
 background-color: #505050;
 color: white;
 }
+
+.resultado{ /* Os resultados que devem aparecer na parte de cima da calculadora*/
+color: white;
+display: flex;
+justify-content: right; /* Jogando pra direita esse valor */
+margin-right: 1 em;
+font-size: 3.5 em;
+}
